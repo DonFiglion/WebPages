@@ -1,5 +1,5 @@
 # Главное о себе 
-![Me](/f/GIT/5. Командная работа в Git и GitHub. Часть 2/ABaut/Me.jpeg)
+![Me](https://raw.githubusercontent.com/DonFiglion/WebPages/main/Me.jpg)
 + Веду здоровый образ жизни	
 + Читаю литературу художественную и профессиональную	
 + Стрессоустойчивый	
